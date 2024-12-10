@@ -19,7 +19,7 @@ jobs:
           node-version: 16
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
 
       - name: Validate JSON
         run: npx tsx src/scripts/validate.ts
