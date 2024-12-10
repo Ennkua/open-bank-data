@@ -6,13 +6,5 @@
     },
     "yearlyFee": 90,
     "perRequestFee": 10
-  },
-  {
-    "name": {
-      "en": "Al Baraka Bank",
-      "ar": "مصرف الباركة"
-    },
-    "yearlyFee": 90,
-    "perRequestFee": 10
   }
 ]
